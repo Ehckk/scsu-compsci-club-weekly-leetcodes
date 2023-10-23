@@ -10,12 +10,12 @@
 - Harder:	[#1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
 ### Week 2
-- Easier:	[#709 To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
-- Harder:	[#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
+- Easier:	[#709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
+- Harder:	[#392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 
 ### Week 3
-- Easier:	[#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
-- Harder:	[#796 Rotate String](https://leetcode.com/problems/rotate-string/description/)
+- Easier:	[#58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+- Harder:	[#796. Rotate String](https://leetcode.com/problems/rotate-string/description/)
 
 ### Mr. Ehck's Flex Problems
 For those who think the "harder" problems are way too easy
