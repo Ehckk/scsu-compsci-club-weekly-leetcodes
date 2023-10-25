@@ -17,6 +17,10 @@
 - Easier:	[#58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - Harder:	[#796. Rotate String](https://leetcode.com/problems/rotate-string/description/)
 
+### Week 4
+- Easier: [#231. Power of Two](https://leetcode.com/problems/power-of-two/)
+- Harder: [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+
 ### Mr. Ehck's Flex Problems
 For those who think the "harder" problems are way too easy
 
