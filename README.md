@@ -21,6 +21,10 @@
 - Easier: [#231. Power of Two](https://leetcode.com/problems/power-of-two/)
 - Harder: [#9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
+### Week 5
+- Easier: [# 520. Detect Captial](https://leetcode.com/problems/detect-capital/description/)
+- Harder: [# 78. Subsets](https://leetcode.com/problems/subsets/description/)
+
 ### Mr. Ehck's Flex Problems
 For those who think the "harder" problems are way too easy
 
