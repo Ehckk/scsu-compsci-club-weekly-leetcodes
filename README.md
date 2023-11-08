@@ -25,6 +25,10 @@
 - Easier: [# 520. Detect Captial](https://leetcode.com/problems/detect-capital/description/)
 - Harder: [# 78. Subsets](https://leetcode.com/problems/subsets/description/)
 
+### Week 6
+- Easier: [#2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
+- Harder: [#2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+
 ### Mr. Ehck's Flex Problems
 For those who think the "harder" problems are way too easy
 
