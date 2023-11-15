@@ -29,6 +29,10 @@
 - Easier: [#2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
 - Harder: [#2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 
+### Week 7
+- Easier: [#485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+- Harder: [#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+
 ### Mr. Ehck's Flex Problems
 For those who think the "harder" problems are way too easy
 
