@@ -38,3 +38,4 @@ For those who think the "harder" problems are way too easy
 
 - [#51. N-Queens](https://leetcode.com/problems/n-queens/description/)
 - [#37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
+- [#42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
