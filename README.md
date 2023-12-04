@@ -33,6 +33,10 @@
 - Easier: [#485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 - Harder: [#11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
 
+### Week 8
+- Easier: [#344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
+- Harder: [#77. Combinations](https://leetcode.com/problems/combinations/description/)
+
 ### Mr. Ehck's Flex Problems
 For those who think the "harder" problems are way too easy
 
