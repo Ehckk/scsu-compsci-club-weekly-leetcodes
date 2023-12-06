@@ -37,6 +37,10 @@
 - Easier: [#344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
 - Harder: [#77. Combinations](https://leetcode.com/problems/combinations/description/)
 
+### Week 9
+- Easier: [#1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/)
+- Harder: [#120. Triangle](https://leetcode.com/problems/triangle/description/)
+
 ### Mr. Ehck's Flex Problems
 For those who think the "harder" problems are way too easy
 
